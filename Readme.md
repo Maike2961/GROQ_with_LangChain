@@ -1,4 +1,4 @@
-# Using a pdf file to training the chat gpt and make him response based on the file
+# Using a pdf file to training the chat 
 
 ## Before start:
 
